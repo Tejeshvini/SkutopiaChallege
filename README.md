@@ -39,6 +39,8 @@ Please note the first scorecard is for all invoices (including returns)
 
 The last part of the task was acheived by created a sub aggregated tables for 1. All sales(including returns) and 2. Returns only with an open input option which changes the number of top n results.
 
+I have attached the pdf download in the email and also sharing the link here - Skutopia Visualisation Challenge
+
 
 
 
