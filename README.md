@@ -41,6 +41,7 @@ The last part of the task was acheived by created a sub aggregated tables for 1.
 
 I have attached the pdf download in the email and also sharing the link here - Skutopia Visualisation Challenge
 
+https://lookerstudio.google.com/s/n03lWO_ZdQ0
 
 
 
